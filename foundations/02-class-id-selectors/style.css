@@ -1,0 +1,21 @@
+.diff-class{
+    font-size: 24px;
+}
+
+.odd-class{
+    background-color:rgb(231, 85, 158);
+    font-family: "Verdana", "DejaVu Sans" , "sans-serif"  ;
+
+}
+
+#firstID{
+    color: blue;
+    font-size: 36px;
+
+}
+
+#secondID{
+    background-color: rgb(140, 230, 140);
+    font-weight: bold;
+    font-size: 24px;
+}
